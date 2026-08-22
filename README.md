@@ -1,19 +1,13 @@
 <h1 align="center">Hi 👋, I'm Meryem Jelloul</h1>
 <h3 align="center">AI Engineering Student</h3>
 
-- 🔭 I’m currently working on **Currently strengthening my skills in AI and Machine Learning**
+- 🔭 I’m currently working on ** Strengthening my skills in AI and Machine Learning**
 
 - 🌱 I’m currently learning **Deep Learning, Computer Vision, Python & Machine Learning**
 
 - 👯 I’m looking to collaborate on **Machine Learning & Deep Learning projects**
 
-- 🤝 I’m looking for help with **Nothing at the moment**
-
-- 📝 I regularly write articles on [I don't currently write articles](I don't currently write articles)
-
 - 💬 Ask me about **Python, Machine Learning & AI**
-
-- ⚡ Fun fact **I'm highly analytical and I notice the smallest details.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
