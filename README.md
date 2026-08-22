@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **Python, Machine Learning & AI**
 
-- 📫 How to reach me **meryemjelloul.9@gmail.com**
-
 - ⚡ Fun fact **I'm highly analytical and I notice the smallest details.**
 
 <h3 align="left">Connect with me:</h3>
