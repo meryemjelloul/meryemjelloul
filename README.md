@@ -9,8 +9,6 @@
 
 - 🤝 I’m looking for help with **Nothing at the moment**
 
-- 👨‍💻 All of my projects are available at [Coming soon](Coming soon)
-
 - 📝 I regularly write articles on [I don't currently write articles](I don't currently write articles)
 
 - 💬 Ask me about **Python, Machine Learning & AI**
